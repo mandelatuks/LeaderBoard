@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# LEADERBOARD
 
-> One paragraph statement about the project.
+> This is a project for a leaderboard where we are using leaderboard API
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,50 +10,55 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JAVASCRIPT
+- NPM Webpacks
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://github.com/mandelatuks/LeaderBoard) 
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
 ### Setup
+~~~ 
+git clone git@github.com:mandelatuks/To-do-list-webApps.git
+cd leaderBoard
+~~~
+- Open a index.html file with your code editor of your choice and/or a browser of your choice.
+~~~
+Open the project using a live saver extension that can be found into your code editor or by using your browser
+~~~
+- install project dependencies
+```
+npm install
+```
+- build project
+```
+npm run build
+```
+- start project
+```
+npm start
+```
+- You can also check out this API documentation [link](https://www.notion.so/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
 
-### Install
+### Environment Prerequisites
+Web Browser
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Code editor: Vscode or any code editor of your choice
 
 ## Authors
 
-👤 **Author1**
+👤 **Mandela Tumukunde**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mandelatuks](https://github.com/mandelatuks)
+- Twitter: [@MandelaTm1](https://twitter.com/MandelaTm1)
+- LinkedIn: [@Mandela Tumukunde](https://www.linkedin.com/in/mandela-tumukunde-794755194/)
 
 ## 🤝 Contributing
 
@@ -68,8 +73,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [inspired by the minimalist website](https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/)
 
 ## 📝 License
 
