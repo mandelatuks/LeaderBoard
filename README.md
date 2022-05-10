@@ -73,7 +73,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- [inspired by the minimalist website](https://web.archive.org/web/20180320194056/http://www.getminimalist.com:80/)
 
 ## 📝 License
 
