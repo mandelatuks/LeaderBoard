@@ -26,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 ~~~ 
-git clone git@github.com:mandelatuks/To-do-list-webApps.git
+git clone git@github.com:mandelatuks/LeaderBoard.git
 cd leaderBoard
 ~~~
 - Open a index.html file with your code editor of your choice and/or a browser of your choice.
