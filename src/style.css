@@ -2,12 +2,14 @@ body {
   margin-right: 20px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 button {
   background: transparent;
   padding: 0;
   margin: 0;
   cursor: pointer;
 }
+
 .header {
   padding: 1% 14%;
 }
@@ -15,6 +17,7 @@ button {
 .recent-score-section {
   width: 35%;
 }
+
 .recent-score {
   display: flex;
   gap: 15px;
@@ -53,11 +56,13 @@ button {
   flex-direction: column;
   gap: 20px;
 }
+
 .main-container {
   display: flex;
   gap: 50px;
   margin-left: 40px;
 }
+
 input {
   padding: 7px 5px;
 }
