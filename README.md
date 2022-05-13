@@ -4,7 +4,8 @@
 
 > This leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
-![screenshot](./app_screenshot.png)
+![Screenshot 2022-05-13 110839](https://user-images.githubusercontent.com/38649067/168257350-6cefc7c4-d4c3-46f1-aba1-1cd6ddfce369.png)
+
 
 Additional description about the project and its features.
 
@@ -17,7 +18,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://github.com/mandelatuks/LeaderBoard) 
+[Live Demo Link](https://mandelatuks.github.io/LeaderBoard/) 
 
 
 ## Getting Started
